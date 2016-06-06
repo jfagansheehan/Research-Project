@@ -14,7 +14,7 @@ The Effects of Music on Mood research project was conducted via Survey Monkey.  
 The following is the data collected from our Psy 441 Capstone Senior Project "Effects of Music on Mood".
 
 ```{r}
-dat<-read.csv("EffectsofMusiconMood.csv")
+dat<-read.csv("EffectsofMusiconMood(2).csv")
 ```
 
 ```{r}
